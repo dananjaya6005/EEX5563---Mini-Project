@@ -1,5 +1,3 @@
-# memory_manager.py
-
 def firstFit(blockSize, m, processSize, n):
 
  #n = number of processes
