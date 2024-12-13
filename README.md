@@ -8,13 +8,13 @@ This project implements the First Fit memory allocation algorithm using Python a
 2. Install required dependencies (e.g., Tkinter).
 
 ## Usage
-1. Run `gui_main.py` to start the application.
+1. Run `main.py` to start the application.
 2. Enter memory block sizes and process sizes in the provided fields.
 3. Click "Allocate" to see the allocation results.
 
 ## Project Structure
 - `memory_manager.py`: Contains the memory allocation logic.
-- `gui_main.py`: Contains the GUI implementation.
+- `main.py`: Contains the GUI implementation.
 
 ## License
 This project is licensed under the MIT License.
